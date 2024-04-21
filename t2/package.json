@@ -1,0 +1,18 @@
+{
+  "name": "kz-random-street",
+  "version": "0.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "streets",
+    "kazakhstan"
+  ],
+  "author": "Anvar HunT",
+  "license": "ISC"
+}
